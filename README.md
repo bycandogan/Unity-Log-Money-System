@@ -1,4 +1,5 @@
 -- EN --
+
 With these project codes, you can add a log infrastructure to your game in a simple way. There are 2 basic features in my site.
 - Log System
 - Money Management
